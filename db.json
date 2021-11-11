@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "E-commerce",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 2510,
+      "services": [
+        {
+          "name": "carrinho de compras",
+          "cost": "1000",
+          "description": "adicionar aba de carrinho",
+          "id": "008061ff-8e41-443b-b0cb-945ecac01b2e"
+        },
+        {
+          "name": "aba usuario",
+          "cost": "10",
+          "description": "tinkerbell",
+          "id": "3b7def61-b30a-41af-9391-7663231fd9d3"
+        },
+        {
+          "name": "mudança no layout",
+          "cost": "500",
+          "description": "masi cores",
+          "id": "5135e21b-bcea-4b2f-ba23-f0a950611844"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

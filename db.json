@@ -1,34 +1,44 @@
 {
   "projects": [
     {
-      "name": "E-commerce",
-      "budget": "3000",
+      "name": "trabalho final",
+      "budget": "2000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 2510,
+      "cost": 1000,
       "services": [
         {
-          "name": "carrinho de compras",
+          "name": "artigo",
           "cost": "1000",
-          "description": "adicionar aba de carrinho",
-          "id": "008061ff-8e41-443b-b0cb-945ecac01b2e"
-        },
-        {
-          "name": "aba usuario",
-          "cost": "10",
-          "description": "tinkerbell",
-          "id": "3b7def61-b30a-41af-9391-7663231fd9d3"
-        },
-        {
-          "name": "mudança no layout",
-          "cost": "500",
-          "description": "masi cores",
-          "id": "5135e21b-bcea-4b2f-ba23-f0a950611844"
+          "description": "escrever um artigo",
+          "id": "75c2a625-02e2-49fd-ac3d-998d1898a568"
         }
       ],
-      "id": 1
+      "id": 3
+    },
+    {
+      "name": "LeCode",
+      "budget": "80000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Template front unimontes",
+      "budget": "40000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
     }
   ],
   "categories": [
@@ -48,5 +58,24 @@
       "id": 4,
       "name": "Planejamento"
     }
+  ],
+
+
+  "proggramers":[ {
+    "id": 1,
+    "name": "Daniel Francisco Borges",
+    "language":"PHP"
+  },{
+
+    "id": 2,
+    "name": "Marianne Matos",
+    "language":"JAVA"
+  },{
+
+    "id": 3,
+    "name": "Raíssa Barbosa",
+    "language":"Python"
+  }
+
   ]
 }
